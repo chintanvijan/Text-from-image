@@ -24,5 +24,5 @@ Steps to execute:
 				python extract.py -i input_images/image1.jpg
 
 Form of Output:
-	- Output is available in form of a String as well as in the form of list containing words(line-wise) as mentioned in your requirement mail.
+	- Output is available in form of a String as well as in the form of list containing words(line-wise).
 
